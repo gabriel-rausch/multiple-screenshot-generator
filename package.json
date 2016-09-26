@@ -1,0 +1,15 @@
+{
+  "author": "gabriel-rausch",
+  "name": "webshot-multiple",
+  "version": "0.0.1",
+  "description": "A task runner to generate multiple screenshots for a list of urls on multiple viewport sizes",
+  "repository": {},
+  "scripts": {
+    "start": "grunt webshot"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-webshot": "^0.3.0"
+  }
+}
